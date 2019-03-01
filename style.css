@@ -1,0 +1,19 @@
+* {
+   margin: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+#sadrzaj {
+    display: none;
+}
